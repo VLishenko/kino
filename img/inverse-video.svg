@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   style="shape-rendering:crispEdges"
+   height="276.92999"
+   width="197.36"
+   version="1.1"
+   viewBox="0 0 197.36 276.92998"
+   data-name="Слой 1"
+   id="Слой_1">
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>guide</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <style
+       id="style5">.cls-1{fill:none;}.cls-2{fill:#e64c3c;}.cls-3{fill:#fff;}.cls-4{fill:#bcd3dd;}.cls-5{clip-path:url(#clip-path);}.cls-6{fill:#eee;}.cls-7{fill:#3f5765;}.cls-8{fill:#2b3a42;}</style>
+    <clipPath
+       id="clip-path">
+      <circle
+         style="fill:none"
+         id="circle8"
+         r="98.68"
+         cy="98.68"
+         cx="170.08"
+         class="cls-1" />
+    </clipPath>
+  </defs>
+  <title
+     id="title10">guide</title>
+  <path
+     style="fill:#e64c3c"
+     id="path12"
+     d="m 98.679998,231.77 c -13.91,0 -23.2,9.92 -23.2,22.58 0,13.9 9.92,22.58 23.2,22.58 13.280002,0 23.210002,-9.36 23.210002,-22.58 -0.01,-13.91 -9.93,-22.58 -23.210002,-22.58 z m 0,31.87"
+     class="cls-2" />
+  <circle
+     style="fill:#bcd3dd"
+     id="circle26"
+     r="98.68"
+     cy="98.68"
+     cx="98.68"
+     class="cls-4" />
+  <g
+     transform="translate(-71.400002,-7.6293946e-6)"
+     clip-path="url(#clip-path)"
+     id="g28"
+     class="cls-5">
+    <polygon
+       style="fill:#eeeeee"
+       id="polygon30"
+       points="110,39.41 110,81.29 110,123.17 151.88,123.17 151.88,81.29 151.88,39.41 110,39.41 "
+       class="cls-6" />
+    <rect
+       style="fill:#bcd3dd"
+       id="rect32"
+       height="15.56"
+       width="15.56"
+       y="73.510002"
+       x="123.16"
+       class="cls-4" />
+    <polygon
+       style="fill:#3f5765"
+       id="polygon34"
+       points="68.11,60.35 68.11,102.23 68.11,144.11 110,144.11 110,102.23 110,60.35 68.11,60.35 "
+       class="cls-7" />
+    <rect
+       style="fill:#2b3a42"
+       id="rect36"
+       height="41.880001"
+       width="41.880001"
+       y="18.469999"
+       x="68.110001"
+       class="cls-8" />
+    <rect
+       style="fill:#2b3a42"
+       id="rect38"
+       height="41.880001"
+       width="41.880001"
+       y="-2.48"
+       x="89.050003"
+       class="cls-8" />
+    <rect
+       style="fill:#e64c3c"
+       id="rect40"
+       height="41.880001"
+       width="41.880001"
+       y="-20.940001"
+       x="173.16"
+       class="cls-2" />
+    <rect
+       style="fill:#3f5765"
+       id="rect42"
+       height="41.880001"
+       width="41.880001"
+       y="144.11"
+       x="68.110001"
+       class="cls-7" />
+    <rect
+       style="fill:#e64c3c"
+       id="rect44"
+       height="41.880001"
+       width="41.880001"
+       y="123.17"
+       x="89.050003"
+       class="cls-2" />
+    <polygon
+       style="fill:#eeeeee"
+       id="polygon46"
+       points="172.82,123.17 172.82,165.05 172.82,165.05 130.94,165.05 "
+       class="cls-6" />
+    <polygon
+       style="fill:#2b3a42"
+       id="polygon48"
+       points="173.22,-2.88 173.22,39.41 173.22,39.41 130.94,39.41 "
+       class="cls-8" />
+    <polygon
+       style="fill:#3f5765"
+       id="polygon50"
+       points="277.52,39.41 235.64,39.41 193.76,39.41 193.76,81.29 235.64,81.29 277.52,81.29 277.52,39.41 "
+       class="cls-7" />
+    <rect
+       style="fill:#2b3a42"
+       id="rect52"
+       transform="matrix(0,1,-1,0,275.05,-70.59)"
+       height="41.880001"
+       width="41.880001"
+       y="81.290001"
+       x="151.88"
+       class="cls-8" />
+    <rect
+       style="fill:#eeeeee"
+       id="rect54"
+       transform="matrix(0,1,-1,0,316.93,-70.59)"
+       height="41.880001"
+       width="41.880001"
+       y="102.23"
+       x="172.82001"
+       class="cls-6" />
+    <polygon
+       style="fill:#3f5765"
+       id="polygon56"
+       points="277.52,165.05 235.64,165.05 193.76,165.05 193.76,206.94 235.64,206.94 277.52,206.94 277.52,165.05 "
+       class="cls-7" />
+    <rect
+       style="fill:#e64c3c"
+       id="rect58"
+       transform="matrix(0,1,-1,0,358.81,13.18)"
+       height="41.880001"
+       width="41.880001"
+       y="165.05"
+       x="151.88"
+       class="cls-2" />
+    <rect
+       style="fill:#3f5765"
+       id="rect60"
+       transform="matrix(0,1,-1,0,337.87,76)"
+       height="41.880001"
+       width="41.880001"
+       y="186"
+       x="110"
+       class="cls-7" />
+    <rect
+       style="fill:#3f5765"
+       id="rect62"
+       transform="matrix(0,1,-1,0,400.7,13.18)"
+       height="41.880001"
+       width="41.880001"
+       y="185.99001"
+       x="172.82001"
+       class="cls-7" />
+    <circle
+       style="fill:#e64c3c"
+       id="circle64"
+       r="20.940001"
+       cy="60.349998"
+       cx="172.82001"
+       class="cls-2" />
+    <circle
+       style="fill:#2b3a42"
+       id="circle66"
+       r="20.940001"
+       cy="144.11"
+       cx="235.64"
+       class="cls-8" />
+    <circle
+       style="fill:#bcd3dd"
+       id="circle68"
+       r="8.0299997"
+       cy="144.11"
+       cx="235.64"
+       class="cls-4" />
+    <rect
+       style="fill:#eeeeee"
+       id="rect70"
+       height="41.880001"
+       width="41.880001"
+       y="-2.48"
+       x="193.75999"
+       class="cls-6" />
+    <polygon
+       style="fill:#2b3a42"
+       id="polygon72"
+       points="235.64,81.29 193.76,81.29 193.76,123.17 235.64,123.17 277.52,123.17 277.52,81.29 235.64,81.29 "
+       class="cls-8" />
+    <polygon
+       style="fill:#bcd3dd"
+       id="polygon74"
+       points="247.9,108.64 218.82,108.64 218.82,108.64 233.36,94.11 "
+       class="cls-4" />
+  </g>
+</svg>

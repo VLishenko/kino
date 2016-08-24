@@ -1,7 +1,7 @@
 <?php 
 	require 'header.php';
 ?>
-	<a href="portfolio.php">Портфолио!</a>
+	<a href="portfolio-inner.php">Портфолио Inner</a>
 	<a href="contacts.php">Контакты</a>
 	<a href="clients.php">Клиенты</a>
 

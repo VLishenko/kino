@@ -69,7 +69,6 @@
 		margin-top: 11px;
 	}
 
-
 	.map {
 		display: inline-block;
 		content: '';
@@ -89,6 +88,44 @@
 		height: auto;
 		width: 112px;
 		margin-bottom: 20px;
+	}
+
+	.portfolio-inner-name {
+		height: 58px;
+	}
+	.portfolio-inner-name p {
+		font-size: 12px;
+		margin-bottom: 10px;
+	}
+
+	.portfolio-inner-video__logo img {
+		margin-top: 2px;
+		margin-left: 7px;
+		width: 26px;
+		height: 46px;
+	}
+	.portfolio-inner-video__name {
+		font-size: 13px;
+		margin-top: 0px;
+		margin-left: 4px;
+	}
+	.portfolio-inner-video__name span {
+		font-size: 13px;
+		margin-left: 1px;
+	}
+	.portfolio-inner-descr {
+		margin-top: 12px;
+		margin-left: 0px;
+	}
+	.portfolio-inner-descr__title {
+		font-size: 14px;
+	}
+	.portfolio-inner-descr ul {
+		margin-top: 13px;
+	}
+	.portfolio-inner-descr ul li {
+		font-size: 12px;
+		margin-top: 13px;
 	}
 
 }

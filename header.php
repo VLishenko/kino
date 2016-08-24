@@ -18,6 +18,8 @@
 	<link rel="stylesheet" href="libs/pushy-master/pushy.css" />
 	<link rel="stylesheet" href="libs/animate/animate.min.css" />
 	<link rel="stylesheet" href="fonts/fontello/css/fontello.css" />
+	<link rel="stylesheet" href="fonts/cinema_dpt_icons/css/cinema_dpt_icons.css" />
+	
 
 	<link rel="stylesheet" href="css/fonts.css" />
 	<link rel="stylesheet" href="css/main.css" />

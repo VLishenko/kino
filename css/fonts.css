@@ -4,6 +4,11 @@
   font-weight: normal;
   src: url("../fonts/GothamPro-Bold/GothamPro-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/GothamPro-Bold/GothamPro-Bold.woff") format("woff"), url("../fonts/GothamPro-Bold/GothamPro-Bold.ttf") format("truetype"); }
 @font-face {
+  font-family: "ArialRoundedMTBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/ArialRoundedMTBold/ArialRoundedMTBold.eot?#iefix") format("embedded-opentype"), url("../fonts/ArialRoundedMTBold/ArialRoundedMTBold.woff") format("woff"), url("../fonts/ArialRoundedMTBold/ArialRoundedMTBold.ttf") format("truetype"); }
+@font-face {
   font-family: "RobotoMedium";
   font-style: normal;
   font-weight: normal;
