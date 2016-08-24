@@ -76,7 +76,7 @@
 					<div class="hidden-lg hidden-md col-sm-2 col-xs-2">
 						<div class="hidden-nav">
 							<div class="hidden-nav__btn">
-								<a href="#" class="menu-btn">Menu</a>
+								<a href="#" class="menu-btn" title="Меню">Menu</a>
 							</div>
 						</div>
 					</div>

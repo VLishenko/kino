@@ -1,6 +1,6 @@
 		</div> <!-- .content  -->
-	</div> <!-- .wrapper  -->
 	
+
 	<!-- Start Common Footer -->
 	<footer class="footer">
 		<div class="container">
@@ -15,8 +15,9 @@
 		</div> <!-- .container -->
 	</footer>
 	<!-- End Common Footer -->
+</div> <!-- .wrapper  -->
 
-</div>	
+</div> <!-- .container -->
 <!-- End Content Pushy Menu-->
 
 	<!-- Start Hidden Menu -->
@@ -38,7 +39,7 @@
 						<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
 							<div class="hidden-nav hidden-nav-list__btn">
 								<div class="hidden-nav__btn">
-									<a href="#" class="menu-btn">
+									<a href="#" class="menu-btn" title="Назад">
 										<i class="demo-icon icon-left-dir"></i>
 									</a>
 								</div>
@@ -56,13 +57,13 @@
 
 
 						<div class="hidden-nav-list-img">
-							<img src="img/hidden-menu-list-bottom.jpg" alt="Киноцех">	
+							<img src="img/hidden-menu-list-bottom.jpg" alt="Киноцех" width="183" height="102">	
 						</div>
 						
-						<div class="footer__wrapper">
+						<div class="nav-footer__wrapper">
 							<div class="footer__copy"><span>КиноЦех &copy; 2016</span></div>
 						</div>
-					
+
 					</div>
 					<!-- End Hidden Navigation -->
 
