@@ -500,7 +500,8 @@ body {
   border-bottom: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
-  box-shadow: none; }
+  box-shadow: none;
+  z-index: 3; }
   .home-header .header a {
     color: #fff; }
 .home-header .hidden-nav-list-language {
@@ -524,7 +525,10 @@ body {
   color: #e74c3c;
   text-decoration: underline;
   font-family: "RobotoRegular";
-  font-size: 18px; }
+  font-size: 18px;
+  -webkit-transition: all 0.7s ease;
+  -moz-transition: all 0.7s ease;
+  transition: all 0.7s ease; }
   .home-header .home-footer-mail:hover {
     color: #fff; }
 .home-header .home-footer-phone {
