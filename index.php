@@ -1,12 +1,21 @@
 <?php 
 	require 'header.php';
 ?>
-	<a href="portfolio-inner.php">Портфолио Inner</a>
-	<a href="contacts.php">Контакты</a>
-	<a href="clients.php">Клиенты</a>
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-md-">
+				
+				<a href="portfolio.php" style="display: block; margin: 15px; font-size: 20px;">Портфолио All</a>
+				<a href="portfolio-inner.php" style="display: block; margin: 15px; font-size: 20px;">Портфолио Inner</a>
+				<a href="contacts.php" style="display: block; margin: 15px; font-size: 20px;">Контакты</a>
+				<a href="clients.php" style="display: block; margin: 15px; font-size: 20px;">Клиенты</a>
+				
 
-
-	<a href="manu-inner.php">Меню!</a>
+			</div>
+		</div> <!-- .row -->
+	</div> <!-- .container -->
+	
 
 <?php 	
 	require 'footer.php';

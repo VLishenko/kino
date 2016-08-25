@@ -85,6 +85,9 @@
 	<script src="libs/mixitup/mixitup.min.js"></script>
 	<script src="libs/pushy-master/pushy.js"></script>
 	<script src="libs/animate/animate-css.js"></script>
+	<script src="libs/imagesloaded/imagesloaded.pkgd.min.js"></script>
+	<script src="libs/masonry/masonry.pkgd.min.js"></script>
+
 	<script src="js/common.js"></script>
 	<!-- Yandex.Metrika counter --><!-- /Yandex.Metrika counter -->
 	<!-- Google Analytics counter --><!-- /Google Analytics counter -->

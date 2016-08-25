@@ -379,6 +379,132 @@ body
 		li
 			margin-bottom: 18px
 
+//Portfolio All
+.portfolio-types-wrapper
+	@extend .portfolio-inner-name
+
+.portfolio-types 
+	margin-right: 20px
+	margin-top: 48px
+	li:first-child
+		a
+			display: inline-block
+			position: relative
+			width: 30px
+			height: 26px
+			font-size: 25px
+			color: #e74c3c
+			&:hover
+				border-bottom: 3px solid transparent
+		i
+			position: absolute
+			left: 0px
+			top: 0px
+			margin-top: 4px
+			margin-left: -2px
+		
+	li
+		display: inline-block
+		text-transform: none
+		font-size: 18px
+		margin-left: 36px
+	a
+		color: #2c3a42
+		padding-bottom: 8px
+		border-bottom: 3px solid transparent
+		&:hover
+			border-bottom: 3px solid #e74c3c
+
+.portfolio-types__active
+	border-bottom: 3px solid #e74c3c
+
+.portfolio-all-works 
+	margin-top: -18px
+
+.item-masonry 
+	position: relative
+	img
+		padding: 5px
+		display: block
+		width: 100%
+		height: auto
+
+
+.portfolio-img-hover
+	display: inline-block
+	width: 100%
+	height: 100%
+	position: absolute
+	top: 0
+	right: 0
+	padding: 5px
+	font-size: 25px
+	text-transform: uppercase
+	font-family: "RobotoCondensed"
+	&:hover a
+		opacity: 1
+	a
+		display: inline-block
+		width: 100%
+		height: 100%
+		padding: 0px 30px
+		padding-top: 31%
+		text-align: center
+		color: #fff
+		background-color: rgba(0, 0, 0, .5)
+		line-height: 29px
+		opacity: 0
+		+transition(all 0.7s ease)
+	
+	&--sm a:before
+		content: ''
+		width: 20px
+		height: 20px
+		position: absolute
+		right: 5px
+		top: 5px
+		border: 20px solid transparent
+		border-top: 20px solid #fff
+		border-right: 20px solid #fff
+		+transition(all 1s ease)
+
+	&--sm a:after
+		content: ''
+		width: 20px
+		height: 20px
+		position: absolute
+		left: 5px
+		bottom: 5px
+		border: 20px solid transparent
+		border-bottom: 20px solid #fff
+		border-left: 20px solid #fff
+		+transition(all 1s ease)
+
+	&--lg a:before
+		content: ''
+		width: 45px
+		height: 45px
+		position: absolute
+		left: 5px
+		top: 5px
+		border: 45px solid transparent
+		border-left: 45px solid #fff
+		border-top: 45px solid #fff
+	
+	&--lg a
+		padding-top: 46%
+
+	&--lg a:after
+		content: ''
+		width: 45px
+		height: 45px
+		position: absolute
+		right: 5px
+		bottom: 5px
+		border: 45px solid transparent
+		border-right: 45px solid #fff
+		border-bottom: 45px solid #fff
+
 		
 
 
