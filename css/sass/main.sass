@@ -34,7 +34,6 @@ html, body
 
 *
 	margin: 0
-
 	padding: 0
 .hidden
 	display: none
@@ -505,12 +504,114 @@ body
 		border-right: 45px solid #fff
 		border-bottom: 45px solid #fff
 
+
+//Home Page
+.home-page
+	display: block
+	height: 100vh
+	width: 100%
+	color: #fff
+	background: url(../images/home-bg.jpg) no-repeat center
+	-webkit-background-size: cover
+	-moz-background-size: cover
+	-o-background-size: cover
+	background-size: cover
+
+
+/* Делаем контейнер по высоте меньше на различных экранах */
+// @media (max-width: 1016px) {
+//   #bg-img {height: 600px;}
+// }
+
+// @media (max-width: 768px) {
+//   #bg-img {height: 300px;}
+// }
+
+// @media (max-width: 480px) {
+//   #bg-img {height: 170px;}
+// }
 		
+.home-header
+	.hidden-nav__btn
+		border: 1px solid #fff
+	.header
+		position: absolute
+		top: 0
+		left: 0
+		background-color: rgba(255, 255, 255, .15)
+		border-bottom: none
+		-webkit-box-shadow: none
+		-moz-box-shadow: none
+		box-shadow: none
+		a
+			color: #fff
+	.hidden-nav-list-language
+		color: #fff
+		background: url(../img/home-languale-figure.png) no-repeat top left
+	.content
+		padding-bottom: 0
+	
+	.footer
+		background-color: transparent
+		height: 115px
+		&::before
+			display: none
+	
+		.container
+			background-color: transparent
 
+	.footer__wrapper
+		text-align: center
+		height: 115px
+	.footer__copy
+		color: #fff
+	.home-footer-mail
+		color: #e74c3c
+		text-decoration: underline
+		font-family: "RobotoRegular"
+		font-size: 18px
+		&:hover
+			color: #fff
+	.home-footer-phone
+		font-size: 18px
+		color: #fffefe
+		font-family: "RobotoMedium"
+		margin-top: 15px
 
+.home-page-content
+	text-align: center
+	width: 100%
+	margin-top: 345px
+	+transition(all 0.7s ease)
 
-
-
+.home-logo
+	width: 283px
+	height: 240px
+	+transition(all 0.7s ease)
+.home-page-description
+	max-width: 370px
+	margin: auto
+	margin-top: 16px
+	font-size: 25px
+	line-height: 33px
+	color: #fff
+	font-family: "RobotoRegular"
+	+transition(all 0.7s ease)
+.home-page-potrfolio-btn
+	margin-top: 86px
+	a
+		display: inline-block
+		color: #fff
+		font-family: "RobotoCondensed"
+		font-size: 20px
+		font-weight: 400
+		text-transform: uppercase
+		width: 255px
+		height: 77px
+		border: 2px solid #fff
+		padding-top: 20px
+		+bdr (10px)
+		+transition(all 0.7s ease)
 
 
 
@@ -541,6 +642,7 @@ body
 		font-size: 14px
 		text-transform: uppercase
 		color: #282828
+
 	
 
 
