@@ -25,7 +25,7 @@
 	<link rel="stylesheet" href="css/main.css" />
 	<link rel="stylesheet" href="css/media.css" />
 </head>
-<body>
+<body class="home-header">
 	<!--[if lt IE 9]>
 	<script src="libs/html5shiv/es5-shim.min.js"></script>
 	<script src="libs/html5shiv/html5shiv.min.js"></script>
@@ -36,7 +36,7 @@
 <!-- Site Overlay -->
 <div class="site-overlay"></div>
 <!-- Start Content  Pushy Menu-->
-<div id="container" class="home-header">
+<div id="container">
 
 
 <div class="wrapper">

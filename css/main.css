@@ -532,6 +532,22 @@ body {
   color: #fffefe;
   font-family: "RobotoMedium";
   margin-top: 15px; }
+.home-header .pushy {
+  display: block;
+  color: #fff;
+  background: url(../images/home-bg.jpg) no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+.home-header .hidden-nav-list-language {
+  background: url(../img/home-languale-figure.png) no-repeat top left; }
+.home-header .hidden-nav-list ul a {
+  color: #fff; }
+.home-header .hidden-nav-list-language {
+  color: #fff; }
+.home-header .hidden-nav-list__btn a {
+  color: #fff; }
 
 .home-page-content {
   text-align: center;

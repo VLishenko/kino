@@ -62,11 +62,6 @@
 								<li><a href="#" class="pushy-link">контакт</a></li>
 							</ul>
 						</div>
-
-
-						<div class="hidden-nav-list-img">
-							<img src="img/hidden-menu-list-bottom.jpg" alt="Киноцех" width="183" height="102">	
-						</div>
 						
 						<div class="nav-footer__wrapper">
 							<div class="footer__copy"><span>КиноЦех &copy; 2016</span></div>
